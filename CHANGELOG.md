@@ -2,6 +2,12 @@
 
 All notable changes to `mixpost` will be documented in this file.
 
+## 2.5.0 - 2026-02-24
+
+**Added**
+
+- Add Facebook API v25.0 support
+
 ## 2.4.0 - 2025-11-13
 
 **Miscellaneous**
